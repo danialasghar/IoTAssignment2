@@ -2,8 +2,8 @@
 ## Group 7: Danial Asghar, Yusuf Shaik, Hamza Farhat Ali
 
 ### Project Structure
-- / 
-    - myapp - This contains the bulk of the code of our API
+- /mysite 
+    - [myapp](mysite/myapp) - This contains the bulk of the code of our API
         - migrations
             - 0001_initial.py - Migration file to create the SQLlite database using the provided columns; i.e. id, temperature, humidity. 
         - templates
